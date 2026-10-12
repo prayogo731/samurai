@@ -1,0 +1,6 @@
+{
+  "name": "Samurai Duel: 2D Pixel-Art Bushido Fighter",
+  "description": "Retro 2D pixel-art samurai fighting game featuring Kenji and Ryu with fluid combat, AI duel, and real-time online 1v1 multiplayer via Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
